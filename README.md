@@ -5,59 +5,34 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+My website is information-based, namely on electronics and why repairing/recycling is a benefit to the environment. The website is HTML/CSS based, which much of it being bootstrap to ensure mobile functionality. 
 
-## Getting Started
+## Navigation and Pages
 
-### Dependencies
+The navigation links to three different pages: Home, Goal and About. Each page holds different information about the benefit of repairing. The Home page has a more distinctive look in comparsions to Goal and About, as this page is the first that a user will view upon entering the site. The Home page also boast most information about repairing and recycling, including an informational FAQ and step-by-step section on the steps you should take on repairing/recycling.
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+The Goal page is of simple nature in design, only detailing about the website's goals and what it wants from the user.
 
-### Installing
+The About page gives a bit of detail of the author of the website, nothing over the top to take away from the main point of the website.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Footer
 
-### Executing program
+The Footer is a main part of the website, giving some information about the website, showcasing the website's logo and copyright. There is also external links to social media including youtube, twitter, linkedin, facebook, instagram. There's also three sets of links:
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Navigation: Navigation links for additional support in accessing the website's content.
 
-## Help
+News: External links that lead to news outlets for Climate(https://www.climatechangenews.com/), Environment(https://www.sciencenews.org/topic/environment) and Technology(https://www.theverge.com/tech).
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Organisations: External links that lead to similar organisations, those being Environment Agency(https://www.gov.uk/government/organisations/environment-agency), Recycle Your Electricals(https://www.recycleyourelectricals.org.uk/), and Friends of The Earth(https://friendsoftheearth.uk/)
 
 ## Authors
 
-Contributors names and contact info
+Kraig Carter
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+## Disclaimer
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+While I may have created this website with good intention for spreading awareness for technology and the impact it has on the environment, please do not use this website as if it was factual and conduct your own research on the subject.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+*Font-awesome
