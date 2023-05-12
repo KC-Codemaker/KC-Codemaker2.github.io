@@ -35,4 +35,7 @@ While I may have created this website with good intention for spreading awarenes
 
 ## Acknowledgments
 
-*Font-awesome
+*Font-awesome(https://fontawesome.com/) for the icons.
+*Live-canvas(https://livecanvas.com/) for snippets of code used and edited.
+*Vecteezy(https://www.vecteezy.com/) For the free images used.
+*Wallpaperaccess(https://wallpaperaccess.com/) For the free images used.
