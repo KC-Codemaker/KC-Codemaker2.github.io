@@ -44,9 +44,40 @@ The website consists of the following pages:
 - Main Section: Provides information about the website creator, Kraig Cater, who is a local technician specializing in electronics repair.
 - Footer: Contains information about the website, links to navigate to different pages, and links to relevant resources and social media profiles.
 
+## Manual Testing Procedures
+During the development of the Phones website, manual testing was performed to assess its functionality, usability, and responsiveness. The following testing procedures were followed:
+
+### Functionality Testing:
+
+- Checked that all navigation links in the header are working correctly and navigate to the intended pages.
+- Verified that the call-to-action button in the hero section redirects users to the desired action.
+- Tested the accordion components in the FAQ section to ensure that they expand and collapse properly, displaying the relevant information.
+
+### Usability Testing:
+
+- Evaluated the overall user experience by navigating through different sections of the website and ensuring that the content is clear, organized, and easily understandable.
+- Tested the responsiveness of the website by accessing it on various devices (desktop, tablets, and mobile) and confirming that the layout and content adapt appropriately.
+
+### Cross-Browser Testing:
+
+- Tested the website on multiple web browsers (e.g., Chrome, Firefox, Safari) to ensure compatibility and consistent rendering of the content.
+
+### Accessibility Testing:
+
+- Verified that the website adheres to web accessibility guidelines, including proper semantic HTML structure, alt tags for images, and appropriate color contrast for text readability.
+
+### Performance Testing:
+
+-Assessed the loading speed and performance of the website, paying attention to any potential bottlenecks or slow-loading elements.
+
+### Cross-Device Compatibility:
+
+- Tested the website on different devices with various screen sizes and resolutions to ensure consistent and optimal user experience across devices.
+
 ## Resources Used
 - Bootstrap: Used for responsive design, navigation bar, cards, and accordion components.
 - Font Awesome: Used for icons in the navigation bar and footer.
+- Vector: Used for images.
 
 ## Contributing
 This website is a basic template and can be customized to suit different needs. Contributions, suggestions, and improvements are welcome. If you have any ideas or feedback, feel free to create an issue or submit a pull request.
