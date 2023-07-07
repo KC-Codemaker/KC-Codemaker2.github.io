@@ -2,43 +2,64 @@
 
 Link: https://kc-codemaker.github.io/KC-Codemaker2.github.io/
 
-# Project Title
-
-Web Application Development-Project 1
+# Phones Website
 
 ## Description
+This is a simple website template for displaying information about repairing and repurposing electronics. It promotes the idea of conserving natural resources by repairing existing devices instead of buying new ones. The website includes sections describing the importance of repairing electronics, our goal in promoting repair and recycling, and information about the website creator, Kraig Cater. It also features a FAQ section, a "Let's do more!" section, and a timeline section. The website has a navigation bar for easy navigation between different pages and a footer with links to relevant resources and social media profiles.
 
-My website is information-based, namely on electronics and why repairing/recycling is a benefit to the environment. The website is HTML/CSS based, which much of it being bootstrap to ensure mobile functionality. 
+## Technologies Used
+- HTML
+- CSS (Bootstrap framework)
+- JavaScript (Bootstrap framework)
 
-## Navigation and Pages
+## Getting Started
+To view the website locally, follow these steps:
 
-The navigation links to three different pages: Home, Goal and About. Each page holds different information about the benefit of repairing. The Home page has a more distinctive look in comparsions to Goal and About, as this page is the first that a user will view upon entering the site. The Home page also boast most information about repairing and recycling, including an informational FAQ and step-by-step section on the steps you should take on repairing/recycling.
+1. Clone the repository or download the HTML file.
+2. Open the index.html file in a web browser.
 
-The Goal page is of simple nature in design, only detailing about the website's goals and what it wants from the user.
+## Website Structure
+The website consists of the following pages:
 
-The About page gives a bit of detail of the author of the website, nothing over the top to take away from the main point of the website.
+### Home (index.html)
+- Header: Displays a navigation bar with links to different pages of the website. The "Home" page is active in the navigation bar.
+- Main Section: Divided into several subsections:
+  - Section 1: Displays a hero image and a call-to-action button to encourage users to take action.
+  - Section 2: Highlights the negative consequences of throwing away electronics and emphasizes the importance of repairing and recycling them.
+  - Section 3: Provides steps to repair electronics and encourages users to learn and acquire repair skills.
+  - Section 4: Features a FAQ (Frequently Asked Questions) section to address common concerns and provide answers.
+  - Section 5: Presents a timeline highlighting the key milestones and achievements of the website.
+  - Section 6: Encourages users to take action and help the environment.
+- Footer: Contains information about the website, links to navigate to different pages, and links to relevant resources and social media profiles.
 
-## Footer
+### Our Goal (goal.html)
+- Header: Displays a navigation bar with links to different pages of the website. The "Our Goal" page is active in the navigation bar.
+- Main Section: Divided into two subsections:
+  - Section 6: Illustrates the negative consequences of throwing away electronics and emphasizes the importance of repairing and recycling them.
+  - Section 7: Encourages users to take action and help the environment.
+- Footer: Contains information about the website, links to navigate to different pages, and links to relevant resources and social media profiles.
 
-The Footer is a main part of the website, giving some information about the website, showcasing the website's logo and copyright. There is also external links to social media including youtube, twitter, linkedin, facebook, instagram. There's also three sets of links:
+### About (Aboutme.html)
+- Header: Displays a navigation bar with links to different pages of the website. The "About" page is active in the navigation bar.
+- Main Section: Provides information about the website creator, Kraig Cater, who is a local technician specializing in electronics repair.
+- Footer: Contains information about the website, links to navigate to different pages, and links to relevant resources and social media profiles.
 
-Navigation: Navigation links for additional support in accessing the website's content.
+## Resources Used
+- Bootstrap: Used for responsive design, navigation bar, cards, and accordion components.
+- Font Awesome: Used for icons in the navigation bar and footer.
 
-News: External links that lead to news outlets for Climate(https://www.climatechangenews.com/), Environment(https://www.sciencenews.org/topic/environment) and Technology(https://www.theverge.com/tech).
+## Contributing
+This website is a basic template and can be customized to suit different needs. Contributions, suggestions, and improvements are welcome. If you have any ideas or feedback, feel free to create an issue or submit a pull request.
 
-Organisations: External links that lead to similar organisations, those being Environment Agency(https://www.gov.uk/government/organisations/environment-agency), Recycle Your Electricals(https://www.recycleyourelectricals.org.uk/), and Friends of The Earth(https://friendsoftheearth.uk/)
-
-## Authors
-
-Kraig Carter
-
-## Disclaimer
-
-While I may have created this website with good intention for spreading awareness for technology and the impact it has on the environment, please do not use this website as if it was factual and conduct your own research on the subject.
+## License
+This project is licensed under the MIT License.
 
 ## Acknowledgments
+The website template was created by Kraig Cater in 2023. Special thanks to the following resources and organizations:
 
-* Font-awesome(https://fontawesome.com/) for the icons.
-* Live-canvas(https://livecanvas.com/) for snippets of code used and edited.
-* Vecteezy(https://www.vecteezy.com/) For the free images used.
-* Wallpaperaccess(https://wallpaperaccess.com/) For the free images used.
+- Environment Agency
+- Recycle Your Electricals
+- Friends of The Earth
+
+Please note that this website was created as a project and does not provide any valuable information or lead to anything specific.
+
